@@ -9,6 +9,7 @@ That background gives me something most entry-level analytics candidates don't h
 ## What's in this repository
 | Folder | Contents |
 |---|---|
+| [E-Commerce Marketing Analytics](https://github.com/amalshesnij/Data-Analytics-Portfolio/tree/main/Python/Ecommerce-Marketing-Analytics) | Python | 8-table capstone: retention, segmentation, cross-selling, delivery impact on ratings |
 | `Python/` | Data cleaning, merging and analysis with pandas, NumPy and Matplotlib, including an 8-table e-commerce capstone |
 | `SQL/` | Case studies covering joins, aggregation, window functions, CTEs and business-question-driven queries |
 | `Excel/` | Data cleaning, pivot analysis and business reporting in Excel |
