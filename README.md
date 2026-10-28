@@ -19,6 +19,7 @@ That background gives me something most entry-level analytics candidates don't h
 ### Python
 - **[E-Commerce Marketing Analytics (Capstone)](Python/Ecommerce-Marketing-Analytics)**: end-to-end analysis of about 98,000 orders across 8 related tables, covering retention, cohort revenue, customer and seller segmentation, cross-selling, payments and ratings. Key finding: late deliveries score 2.55 against 4.28 for on-time orders, a likely driver of the 3% repeat-purchase rate.
 - **[Retail Customer Analysis](Python/Retail-Customer-Analysis)**: merged customer, transaction and product data (23,000+ transactions) to analyse sales by channel, city, gender and age group. Handled mixed date formats, duplicate rows and a composite-key join. Key finding: e-Shop drives about 41% of net sales, while gender barely affects category preference.
+- - **[Hypothesis Testing: 5 Business Problems](Python/Hypothesis-Testing)**: t-tests, paired t-test, ANOVA, Kruskal-Wallis and correlation applied to loan pricing, pricing consistency, program evaluation, job prioritisation and a customer survey. Key finding: high-priority jobs were not completed faster than medium-priority ones, so the prioritisation system was not working.
 
 ### SQL
 - **Retail Data Analysis**: customer, product and transaction analysis for a retail dataset
